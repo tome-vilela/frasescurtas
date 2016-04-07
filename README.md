@@ -1,4 +1,4 @@
-# Frases Curtas
+﻿# Frases Curtas
 
 Este repositório contém a estrutura básica do site http://frasescurtas.org, um micro site que desenvolvi.
 
@@ -14,7 +14,7 @@ whatsapp://send?text=Hello%2C%20World!
 
 Pensando que boa parte dos acessos ao [Frases Curtas](http://frasescurtas.org) será feito através de dispositivos mobile, as páginas do site foram feitas bastante enxutas, e o layout foi trabalhado de modo a ser responsivo para oferecer uma boa experiência de navegação. Veja um exemplo abaixo:
 
-![http://imgur.com/QTmKUHq](http://i.imgur.com/QTmKUHq.png?1)
+![http://imgur.com/QTmKUHq](http://i.imgur.com/u0TQ16I.png)
 
 Esperamos que gostem das frases!
 
